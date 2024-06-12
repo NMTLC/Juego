@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>No me toques los cojones - El Juego de Beber +18</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>No me toques los cojones</h1>
+        <p>El juego de retos y preguntas incómodas para mayores de 18 años</p>
+    </header>
+    
+    <section id="about">
+        <h2>Sobre el juego</h2>
+        <p>"No me toques los cojones" es un juego de beber para adultos, donde los jugadores se enfrentarán a retos y preguntas incómodas. Ideal para fiestas y reuniones, este juego asegura risas y momentos inolvidables.</p>
+    </section>
+    
+    <section id="how-to-play">
+        <h2>Cómo jugar</h2>
+        <ul>
+            <li>Reúne a tus amigos y siéntense en círculo.</li>
+            <li>Cada jugador toma un turno para sacar una carta y leer el reto o la pregunta en voz alta.</li>
+            <li>El jugador debe cumplir con el reto o responder la pregunta, o de lo contrario, beber.</li>
+            <li>¡El objetivo es divertirse y pasar un buen rato!</li>
+        </ul>
+    </section>
+    
+    <section id="buy-now">
+        <h2>Compra ahora</h2>
+        <p>¡No te pierdas la oportunidad de tener el juego más divertido de la temporada! Haz clic en el botón de abajo para comprar "No me toques los cojones".</p>
+        <button id="buy-button">Comprar Ahora</button>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 No me toques los cojones. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
